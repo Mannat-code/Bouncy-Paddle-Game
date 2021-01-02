@@ -1,2 +1,2 @@
-# Bouncy-Paddle-Game
-Bouncy Paddle Game
+# Monkey Runner Game
+Monkey runner Game
